@@ -1,10 +1,10 @@
-import React from "react";
-import Shop from "../pages/Shop";
+// import React from "react"
+// import Shop from "../pages/Shop";
 import Navbar from "./Navbar";
-import Sidebar from "./Sidebar";
-import ProductForm from "./ProductForm";
-import ProductDetail from "../pages/ProductDetail";
-import Cart from "./Cart"
+// import Sidebar from "./Sidebar";
+// import ProductForm from "./ProductForm";
+// import ProductDetail from "../pages/ProductDetail";
+// import Cart from "./Cart"
 
 
 const {

@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import Wallet from './Wallet'
 import Basket from './Basket'
 
